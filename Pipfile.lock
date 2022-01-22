@@ -47,9 +47,6 @@
                 "sha256:41104e1c976c9c410387b3c7d265466b314f287a1c13fd4b543768135301058a",
                 "sha256:9137c59c4eb1dee60ae3c710e94f56119a1b33b0b17ff3ad878fc2f4ce77843a"
             ],
-
-            "version": "==1.23.41"
-
             "markers": "python_version >= '3.6'",
             "version": "==1.23.41"
         },
@@ -60,7 +57,6 @@
             ],
             "index": "pypi",
             "version": "==2.2.0"
-
         },
         "dj-database-url": {
             "hashes": [
