@@ -257,11 +257,8 @@
             "version": "==1.5.11"
         },
         "setuptools": {
-            "hashes": [
-                "sha256:5a844ad6e190dccc67d6d7411d119c5152ce01f7c76be4d8a1eaa314501bba77",
-                "sha256:bf8a748ac98b09d32c9a64a995a6b25921c96cc5743c1efa82763ba80ff54e91"
-            ],
-            "version": "==62.4.0"
+            "hashes": [],
+            "version": "==68.1.2"
         },
         "six": {
             "hashes": [
